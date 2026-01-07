@@ -1,5 +1,18 @@
 # Changelog
 
+## 3.15.1 (2026-01-07)
+
+Full Changelog: [v3.15.0...v3.15.1](https://github.com/openai/openai-go/compare/v3.15.0...v3.15.1)
+
+### Chores
+
+* **internal:** codegen related update ([1e529a4](https://github.com/openai/openai-go/commit/1e529a4b48c55a6bb611f5dcaf0ad1bfbd6f729d))
+
+
+### Documentation
+
+* update URL version ([dc00e14](https://github.com/openai/openai-go/commit/dc00e14cae07daaefabeb5371daa12f90bb82dc8))
+
 ## 3.15.0 (2025-12-19)
 
 Full Changelog: [v3.14.0...v3.15.0](https://github.com/openai/openai-go/compare/v3.14.0...v3.15.0)
